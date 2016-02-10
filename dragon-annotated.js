@@ -76,7 +76,7 @@ document.addEventListener('mouseover',over);
 // This is the over() function
 function over(e){
 
-// Set the cursor to 'move' wihle hovering an element you can reposition
+// Set the cursor to 'move' while hovering an element you can reposition
   e.target.style.cursor='move'
 
 // Add a green box-shadow to show what container your hovering on
